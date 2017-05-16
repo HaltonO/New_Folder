@@ -31,7 +31,8 @@
                 using HTML, CSS and JavaScript.</p>
                 <a href="http://www.smirkspace.com">Smirkspace</a><br /><br /><br />
                 <p style="font-weight: bold">ChatUp</p><p>This is a current group project which will invlove a client
-                chat and central server side implemented using Python. So far, we're in collecting requirment and defining
+                chat and central server side implemented using Python. So far, we're in the design phase, collecting requirments 
+                and defining
               the architecture.</p>
                 <br /><br /><br />
             </div>
