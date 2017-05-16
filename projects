@@ -30,6 +30,10 @@
                   connect with each other through conversation. Contributed mainly to the front-end development of the app
                 using HTML, CSS and JavaScript.</p>
                 <a href="http://www.smirkspace.com">Smirkspace</a><br /><br /><br />
+                <p style="font-weight: bold">ChatUp</p><p>This is a current group project which will invlove a client
+                chat and central server side implemented using Python. So far, we're in collecting requirment and defining
+              the architecture.</p>
+                <br /><br /><br />
             </div>
         </div>
         <footer>
