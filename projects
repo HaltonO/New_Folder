@@ -30,10 +30,9 @@
                   connect with each other through conversation. Contributed mainly to the front-end development of the app
                 using HTML, CSS and JavaScript.</p>
                 <a href="http://www.smirkspace.com">Smirkspace</a><br /><br />
-                <p style="font-weight: bold">Silencio</p><p>This is a current group project which will invlove a client
-                chat and central server side implemented using Python. So far, we're in the design phase, collecting requirments
-                and defining
-              the architecture. I will mainly focus on the front end development of this application.</p>
+                <p style="font-weight: bold"><a href="https://github.com/Silencio0/Silencio">Silencio</a></p><p>This is a small group project which invloves a client
+                chat and central server side implemented using Python. My role in this project was to lead, organize and delegate work. I was heavily invloved
+               also in writing SRS and design documents.</p>
               <p style="font-weight: bold">Graphic Manipulation</p><p>Some work of graphic modification and editing is <a href="http://haltono.daportfolio.com/">here</a></p>
 
               <p style="font-weight: bold">Mini Research</p><p>This is a mini undergraduate <a href="research.pdf">research paper.</a></p>
