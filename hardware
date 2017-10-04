@@ -18,8 +18,8 @@
             <div>
 
                 <p><img src="pics/100.png"><img src="pics/101.png"><img src="pics/102.png"><img src="pics/103.png"><img src="pics/104.png">
-                <img src="pics/105.png"><img src="pics/106.png"><img src="pics/106.png"><img src="pics/107.png"><img src="pics/108.png">
-              <img src="pics/109.png"><img src="pics/110.png"><img src="pics/111.png"><img src="pics/112.png"></p>
+                <img src="pics/105.png"><img src="pics/106.png"><img src="pics/107.png" style="width:500px;height:500px;"><img src="pics/108.png" style="width:500px;height:228px;">
+              <img src="pics/109.png" style="width:500;height:500px;"><img src="pics/110.png"><img src="pics/111.png"><img src="pics/112.png"><img src="pics/113.png"></p>
             </div>
         </div>
         <footer>
