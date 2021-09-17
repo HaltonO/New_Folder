@@ -10,13 +10,16 @@
             <ul>
               <li><a href="home">Home</a></li>
               <li><a href="about">About</a></li>
-              <li><a href="projects">Projects</a><li>
+              <li><a href="projects">Projects</a></li>
               <li><a href="contact">Contact</a></li>
             </ul>
         </nav>
         <div>
             <div>
               <h1>Projects</h1>
+                <p style="font-weight: bold">Power BI Dashboard - Sample</p>
+                <p><img src="pics/sample_dashboard.png">
+
                 <p style="font-weight: bold">AtUVic</p><p>A team of 5 members including myself worked on a project
                 of sketching a mobile app, from low & medium fidelity to higher fidelity. To prototype, software such
                 as Balsamiq, Sketch and Invision were used. The project included design aspects from evaluating usability, user
